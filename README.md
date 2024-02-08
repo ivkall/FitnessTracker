@@ -1,4 +1,4 @@
-## Description of the application for Google Play
+## App description
 
 FitnessTracker allows you to keep track of your fitness goals and enables a healthy lifestyle with the following features:
 
